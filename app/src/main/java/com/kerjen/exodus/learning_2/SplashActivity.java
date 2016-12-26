@@ -25,3 +25,8 @@ public class SplashActivity extends AppCompatActivity {
 //нужный цвет
 //вот полезная статья: http://developer.alexanderklimov.ru/android/trafficlights.php
 
+
+//сразу скажу, что у меня не получилось добавить ещё один Navigation Bar, так как он конфликтовал с
+//тем, что уже здесь был, и я пока не смог решить эту проблему
+//если интересно посмотреть, что получится при создании второго Navigation Bar-а, создайте новое
+//activity под названием Navigation Drawer Activity и зайдите в появившийся xml файл

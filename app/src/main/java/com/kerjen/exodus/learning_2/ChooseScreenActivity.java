@@ -60,6 +60,7 @@ public class ChooseScreenActivity extends AppCompatActivity implements View.OnCl
 }
 
 //здесь у меня была проблема с правильной расстановкой кнопок друг относительно друга, но я её
-//как вы видите, решил, а помогла мне в этом статья:
+//решил, а помогла мне в этом статья:
 //http://developer.alexanderklimov.ru/android/layout/linearlayout.php
-
+//при запусе приложения, кнопки на экране "слипаются", но это решаемо, так что в следующих версиях
+//мы исправим этот недочёт
